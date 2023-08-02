@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **A shrimp's heart is in its head**
 
-  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gunturi dileepvarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gunturi dileepvarma" height="30" width="40" /></a>

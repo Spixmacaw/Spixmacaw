@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunturi Dileepvarma</h1>
-<h3 align="center">Be aware be saf</h3>
+<h3 align="center">Be aware be safe !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="dileepsahoo" /> </p>
 

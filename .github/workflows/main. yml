@@ -1,4 +1,5 @@
-name: Generate Snake
+
+name:Generate snake
 
 # Controls when the action will run. This action runs every 6 hours.
 on:

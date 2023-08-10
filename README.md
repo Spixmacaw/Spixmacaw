@@ -1,4 +1,3 @@
-
 ![masterhead](https://media.licdn.com/dms/image/D5616AQGXekCFpZ3c2Q/profile-displaybackgroundimage-shrink_350_1400/0/1691080476024?e=1696464000&v=beta&t=p69TmIg6GgHEGzG8Y2VK5WXLRpohih6o3A8kvKvv1Ps)
 
 <h1 align="center"> Hi 👋, I'm Gunturi Dileepvarma</h1>
@@ -17,6 +16,16 @@
 <a href="https://github.com/Spixmacaw/Spixmacaw/issues"><img src="https://img.shields.io/github/issues/Spixmacaw/Spixmacaw" alt="Issues Badge"/></a>
 <a href="https://github.com/Spixmacaw/Spixmacaw/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Spixmacaw/Spixmacaw?color=2b9348"></a>
 <a href="https://github.com/Spixmacaw/Spixmacaw/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Spixmacaw/Spixmacaw?color=2b9348" alt="License Badge"/></a></br>
+
+
+[![Build status (GitHub)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/Spixmacaw/ci.yml?branch=main&label=Build&logo=github&cacheSeconds=600)](https://github.com/Spixmacaw/Spixmacaw/actions?query=workflow%3AASF-ci+branch%3Amain)
+[![Quality status (GitHub)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/ArchiSteamFarm/code-quality.yml?branch=main&label=Quality&logo=github&cacheSeconds=600)](https://qodana.cloud/projects/3dX40)
+[![Build status (Docker)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/ArchiSteamFarm/docker-publish-main.yml?branch=main&label=Docker&logo=docker&cacheSeconds=600)](https://hub.docker.com/r/justarchi/archisteamfarm)
+[![Github last commit date](https://img.shields.io/github/last-commit/JustArchiNET/Spixmacaw.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/Spixmacaw/commits)
+[![Total downloads](https://img.shields.io/github/downloads/JustArchiNET/Spixmacaw/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/Spixmacaw/releases)
+[![License](https://img.shields.io/github/license/JustArchiNET/Spixmacaw.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/JustArchiNET/Spixmacaw/blob/main/LICENSE.txt)
+
+
 
 - 🔭 I'm developed model using python3 framework [driver_drowsiness_detection](https://github.com/dileepsahoo/driver_drowsiness_detection.git)
 

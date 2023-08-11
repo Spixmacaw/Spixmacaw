@@ -16,17 +16,11 @@
 <a href="https://github.com/Spixmacaw/Spixmacaw/pulls"><img src="https://img.shields.io/github/issues-pr/Spixmacaw/Spixmacaw" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Spixmacaw/Spixmacaw/issues"><img src="https://img.shields.io/github/issues/Spixmacaw/Spixmacaw" alt="Issues Badge"/></a>
 <a href="https://github.com/Spixmacaw/Spixmacaw/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Spixmacaw/Spixmacaw?color=2b9348"></a>
-<a href="https://github.com/Spixmacaw/Spixmacaw/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Spixmacaw/Spixmacaw?color=2b9348" alt="License Badge"/></a></br>
-
-
-
-[![GitHub sponsor](https://img.shields.io/badge/GitHub-sponsor-ea4aaa.svg?logo=github-sponsors)](https://github.com/sponsors/Spixmacaw)
-[![Quality status (GitHub)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/ArchiSteamFarm/code-quality.yml?branch=main&label=Quality&logo=github&cacheSeconds=600)](https://qodana.cloud/projects/3dX40)
-[![Build status (Docker)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/ArchiSteamFarm/docker-publish-main.yml?branch=main&label=Docker&logo=docker&cacheSeconds=600)](https://hub.docker.com/r/justarchi/archisteamfarm)
-[![Github last commit date](https://img.shields.io/github/last-commit/JustArchiNET/Spixmacaw.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/Spixmacaw/commits)
-[![Total downloads](https://img.shields.io/github/downloads/JustArchiNET/Spixmacaw/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/Spixmacaw/releases)
+[![Wiki](https://img.shields.io/badge/Read-wiki-cc5490.svg?logo=github)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 [![License](https://img.shields.io/github/license/Spixmacaw/Spixmacaw.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/Spixmacaw/Spixmacaw/blob/main/LICENSE.txt)
 
+[![GitHub sponsor](https://img.shields.io/badge/GitHub-sponsor-ea4aaa.svg?logo=github-sponsors)](https://github.com/sponsors/Spixmacaw)
+[![GitHub experimental release date](https://img.shields.io/github/release-date-pre/JustArchiNET/ArchiSteamFarm.svg?label=Released&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/ArchiSteamFarm/releases)
 
 
 - 🔭 I'm developed model using python3 framework [driver_drowsiness_detection](https://github.com/dileepsahoo/driver_drowsiness_detection.git)

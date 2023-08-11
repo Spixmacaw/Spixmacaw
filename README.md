@@ -19,12 +19,13 @@
 <a href="https://github.com/Spixmacaw/Spixmacaw/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Spixmacaw/Spixmacaw?color=2b9348" alt="License Badge"/></a></br>
 
 
-[![Build status (GitHub)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/Spixmacaw/ci.yml?branch=main&label=Build&logo=github&cacheSeconds=600)](https://github.com/Spixmacaw/Spixmacaw/actions?query=workflow%3AASF-ci+branch%3Amain)
+
+[![GitHub sponsor](https://img.shields.io/badge/GitHub-sponsor-ea4aaa.svg?logo=github-sponsors)](https://github.com/sponsors/Spixmacaw)
 [![Quality status (GitHub)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/ArchiSteamFarm/code-quality.yml?branch=main&label=Quality&logo=github&cacheSeconds=600)](https://qodana.cloud/projects/3dX40)
 [![Build status (Docker)](https://img.shields.io/github/actions/workflow/status/JustArchiNET/ArchiSteamFarm/docker-publish-main.yml?branch=main&label=Docker&logo=docker&cacheSeconds=600)](https://hub.docker.com/r/justarchi/archisteamfarm)
 [![Github last commit date](https://img.shields.io/github/last-commit/JustArchiNET/Spixmacaw.svg?label=Updated&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/Spixmacaw/commits)
 [![Total downloads](https://img.shields.io/github/downloads/JustArchiNET/Spixmacaw/total.svg?label=Downloads&logo=github&cacheSeconds=600)](https://github.com/JustArchiNET/Spixmacaw/releases)
-[![License](https://img.shields.io/github/license/JustArchiNET/Spixmacaw.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/JustArchiNET/Spixmacaw/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/github/license/Spixmacaw/Spixmacaw.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/Spixmacaw/Spixmacaw/blob/main/LICENSE.txt)
 
 
 

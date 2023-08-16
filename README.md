@@ -16,7 +16,7 @@
 <a href="https://github.com/Spixmacaw/Spixmacaw/pulls"><img src="https://img.shields.io/github/issues-pr/Spixmacaw/Spixmacaw" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Spixmacaw/Spixmacaw/issues"><img src="https://img.shields.io/github/issues/Spixmacaw/Spixmacaw" alt="Issues Badge"/></a>
 <a href="https://github.com/Spixmacaw/Spixmacaw/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Spixmacaw/Spixmacaw?color=2b9348"></a>
-[![Wiki](https://img.shields.io/badge/Read-wiki-cc5490.svg?logo=github)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+[![Wiki](https://img.shields.io/badge/Read-wiki-cc5490.svg?logo=github)](https://github.com/Spixmacaw/Spixmacaw/wiki)
 [![License](https://img.shields.io/github/license/Spixmacaw/Spixmacaw.svg?label=License&logo=apache&cacheSeconds=2592000)](https://github.com/Spixmacaw/Spixmacaw/blob/main/LICENSE.txt)
 
 [![GitHub sponsor](https://img.shields.io/badge/GitHub-sponsor-ea4aaa.svg?logo=github-sponsors)](https://github.com/sponsors/Spixmacaw)

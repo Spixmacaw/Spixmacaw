@@ -1,4 +1,5 @@
-![masterhead](https://studio.youtube.com/channel/UCeu0ALc6TpqFb6dYQWcFACw/editing/images)
+
+<img src="banner1.jpg">
 
 <h1 align="center"> Hi 👋, I'm Gunturi Dileepvarma</h1>
 

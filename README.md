@@ -1,5 +1,5 @@
 
-<img src="banner1.jpg">
+<img src="banner.png">
 
 <h1 align="center"> Hi 👋, I'm Gunturi Dileepvarma</h1>
 

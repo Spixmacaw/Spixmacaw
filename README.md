@@ -53,7 +53,7 @@
 
 <a href="https://github.com/Spixmacaw ">![Spixmacaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=radical&show_icons=true&hide_border=true&layout=compact)</a>
 
-## Hello, Nice to Meet You !!
+## Hello, Nice to Meet You !!      
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -77,6 +77,6 @@
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
-<hr>
+<br>
 
 ![Alt](https://repobeats.axiom.co/api/embed/76e6ef55d852b53769aeeb80da65d582e1067fa0.svg "Repobeats analytics image")

@@ -30,7 +30,8 @@
 
 - 🤝 About I have done this major project using python3 framework [-treasure-hunt-game](https://github.com/dileepsahoo/-treasure-hunt-game.git)
 
-<img align="right" alt="Coding" width="300" height="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/dileepsahoo](https://github.com/dileepsahoo)
 
@@ -49,7 +50,7 @@
 
 <a href="https://github.com/Spixmacaw "> ![Spixmacaw's Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=radical&show_icons=true&hide_border=true&count_private=true)</a>
 
-<a href="https://github.com/Spixmacaw "> ![Spixmacaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spixmacaw&theme=radical&hide_border=true)</a>
+<a href="https://github.com/Spixmacaw "> ![Spixmacaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spixmacaw&theme=radical&hide_border=true)</a><img align="right" alt="Coding" width="300" height="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <a href="https://github.com/Spixmacaw "> ![Spixmacaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=radical&show_icons=true&hide_border=true&layout=compact)</a>
 

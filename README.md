@@ -49,9 +49,9 @@
 
 <a href="https://github.com/Spixmacaw "> ![Spixmacaw's Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=radical&show_icons=true&hide_border=true&count_private=true)</a>
 
-<a href="https://github.com/Spixmacaw ">![Spixmacaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spixmacaw&theme=radical&hide_border=true)</a>
+<a href="https://github.com/Spixmacaw "> ![Spixmacaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spixmacaw&theme=radical&hide_border=true)</a>
 
-<a href="https://github.com/Spixmacaw ">![Spixmacaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=radical&show_icons=true&hide_border=true&layout=compact)</a>
+<a href="https://github.com/Spixmacaw "> ![Spixmacaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=radical&show_icons=true&hide_border=true&layout=compact)</a>
 
 ## Hello, Nice to Meet You !!      
 
